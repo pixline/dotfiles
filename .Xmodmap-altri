@@ -1,0 +1,6 @@
+keycode 49 = less greater guillemotleft guillemotright guillemotleft guillemotright
+keycode 94 = backslash bar notsign brokenbar notsign brokenbar
+
+keycode 133 = Alt_L Meta_L Alt_L Meta_L
+#keycode 64 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift
+
