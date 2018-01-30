@@ -101,7 +101,3 @@ fi
 if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
-
-export PATH="/home/gmz/Sites/adt-bundle-linux-x86-20130219/sdk/tools:$PATH"
-export PATH="$PATH:~/.cabal/bin:~/.xmonad/bin"
-
